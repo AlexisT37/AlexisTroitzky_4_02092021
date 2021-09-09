@@ -779,8 +779,8 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
-    color: #FFFFFF!important;
+    background: #F3A96C;
+    color: #372A23!important; /* nouvelle coulour pour le bouton pour avoir un meilleur contraste */
 }
 
 .btn-atomic-tangerine:hover {
