@@ -678,7 +678,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 12px; /* rêgler la taille de police a 12 pixels pour la lisibilité */
 }
 
 .tight-width-whitespace {
