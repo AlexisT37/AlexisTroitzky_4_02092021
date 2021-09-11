@@ -828,6 +828,15 @@ h4 {
     background-image: url("img/image-de-presentation.webp");
 }
 
+
+.liens_cliquables {
+    padding-top: 16px;
+    padding-bottom: 16px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
